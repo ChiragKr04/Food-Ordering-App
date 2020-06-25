@@ -6,7 +6,7 @@ Where you can find list of restaurant coming from open API using GET and POST re
 Order of user can store in local database using ROOM database
 
 # How to run
-Its ready to launch without doing anything. Just build apk and run on your smarthphones.
+Its ready to launch without doing anything. Clone the repository to your android studio and just build apk and run on your smarthphones.
 
 # Languages Used
 Kotlin
